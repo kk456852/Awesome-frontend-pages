@@ -9,3 +9,7 @@ your skill is loading ...
 ## pages/search
 
 animation of search bar
+
+## pages/facebook
+
+simple showpage like facebook
